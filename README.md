@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Record System
 
 A beginner-friendly Solidity smart contract that stores and manages student records on the blockchain.
@@ -28,3 +29,7 @@ A beginner-friendly Solidity smart contract that stores and manages student reco
 - Delete student records
 - Events
 - Access control (Ownable)
+=======
+# student-record-system-solidity
+A beginner-friendly Solidity smart contract for managing student records using structs, mappings, and CRUD operations. Built as part of my blockchain development journey.
+>>>>>>> 5ea4bef597e6ee8f3f0789b3153cf0f1248d7232
